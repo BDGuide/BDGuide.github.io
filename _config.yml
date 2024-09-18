@@ -1,5 +1,5 @@
-title: "Affiliates"
-email: wowthemesnet@gmail.com
+title: "Bangladesh Travel Guide"
+email: chebongkhanh.git@gmail.com
 timezone: UTC
 url: "https://bdguide.github.io"
 baseurl: ""
@@ -44,9 +44,9 @@ authors:
 
 # Social
 social:
-  instagram: https://www.instagram.com/bootstrapstarter/
-  facebook: https://www.facebook.com/bootstrapstartercom-346329609045284
-  twitter: https://twitter.com/bstartercom
+  instagram: https://www.instagram.com/bdguide/
+  facebook: https://www.facebook.com/bdguide
+  twitter: https://twitter.com/bdguide
 
 # Plugins
 plugins: 
